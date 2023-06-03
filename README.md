@@ -6,6 +6,9 @@ En este espacio, quisiera publicar mis avances en la creación de **Dashboard** 
 
 El tablero lo dividi en las dimensiones en las caracteristicas del estudiantado a nivel de colegio, individual y familiar.
 
+Colegio: https://github.com/liliandsr/Power-BI/blob/226e10e8748b81eb98dad765b50d708a7ffb7851/ICFES_Narino/colegio.png 
+Estudiante: https://github.com/liliandsr/Power-BI/blob/226e10e8748b81eb98dad765b50d708a7ffb7851/ICFES_Narino/estudiante.png
+Familia: https://github.com/liliandsr/Power-BI/blob/226e10e8748b81eb98dad765b50d708a7ffb7851/ICFES_Narino/familia.png
 
 2. 
 
